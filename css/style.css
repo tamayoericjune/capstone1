@@ -221,7 +221,7 @@
     left: -130px; /* Position them outside of the screen */
     transition: 0.3s; /* Add transition on hover */
     padding: 15px; /* 15px padding */
-    width: 150px; /* Set a specific width */
+    width: 160px; /* Set a specific width */
     text-decoration: none; /* Remove underline */
     font-size: 20px; /* Increase font size */
     color: white; /* White text color */
@@ -451,7 +451,7 @@ transition-delay:.2s;
     font-size:.7em;
   }
   .hiimage{
-    height:300px;
+    height:200px;
   }
   .cpr{
     font-size: .3em;
