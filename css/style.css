@@ -401,7 +401,7 @@ transition-delay:.2s;
 
 .hiimage{
   height:500px;
-  width:1000px;
+  width:100%;
   margin:0 auto;
   display: block;
 }
@@ -426,3 +426,5 @@ transition-delay:.2s;
   text-align: center;
   font-size:1.5em;
 }
+
+
