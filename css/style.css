@@ -469,5 +469,18 @@ transition-delay:.2s;
   .textparagraph{
     font-size:.7em;
   }
+  #mySidenav a{
+    padding:5px;
+    font-size:12px;
+  }
+  #destination{
+    top:228px;
+  }
+  #history{
+    top:256px;
+  }
+  #about{
+    top:284px;
+  }
 
 }
